@@ -1,0 +1,85 @@
+/* CSS Document */
+body { 
+	font-family: Arial,Helvetica,sans-serif;
+	font-size:11px;
+	color:#333333;
+	width:auto;
+	min-width:1100px!important;
+}
+a{color:#333333;text-decoration:none;font-size:12px;}
+
+a:hover{color:#2C3A3F;text-decoration:underline;}
+ul{
+list-style:none;
+}
+header{
+background:#F0F0F0;
+font-weight:bold;
+color:#000;
+font-size:12px;
+padding:5px;
+}
+.td_header{
+color:#fff;font-weight:bold; font-size:11px;font-family:Arial, Helvetica, sans-serif;
+background-color:#74828F;height:30px;padding-left:10px;
+}
+.td_border{
+height:30px;
+border-bottom:#D2D2D2 dotted 1px;padding-left:10px;
+}
+.tr_bg_alternate{
+background:#F3F3F3;
+}
+.tr_bg{
+background:#E9E9E9;
+}
+#wrapper{ width:906px; margin:0 auto; background:#fff;}
+#login{ width:500px;border-top:#C6CFDC solid 1px;margin:0 auto;height:270px;margin-top:120px;
+padding:2px;
+}
+h1{color:#8695A1;font-size:20px;font-weight:bold;margin:0;padding:4px 2px 0px 8px;}
+#row{
+width:auto;padding-bottom:16px;
+}
+#row span{
+width:65px;float:left;padding-bottom:1px;
+}
+
+#row_seperator{
+width:auto;border-bottom:#E8E8E8 solid 1px;margin-bottom:5px;
+}
+
+.textbox{
+border:#CDCDCD solid 1px;width:250px;
+font-size:11px;color:#666;height:17px;
+margin-right:2px;
+}
+
+.textarea{
+border:#CDCDCD solid 1px;font-size:11px;color:#666;
+}
+
+.file{
+border:#CDCDCD solid 1px;font-size:11px;color:#666;
+}
+
+.button{
+width:auto;padding:2px 12px 2px 12px;background:#F0F0F0;border:#DADADA solid 1px;cursor:pointer;color:#333333;
+font-family: Arial,Helvetica,sans-serif;
+font-size:11px;
+}
+.button:hover{
+background:#F2FAFF;
+}
+.alternate{
+min-width:1000px;
+}
+
+.box_title{
+background-color:#8594A1;
+color:#FFFFFF;
+font-weight:bold;
+height:27px;
+}
+
+
